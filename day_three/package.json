@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.10"
+  },
+  "scripts": {
+    "test" : "npx ts-node ./index.ts"
+  }
+}

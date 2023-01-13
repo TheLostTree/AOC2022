@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.14"
+  },
+  "scripts":{
+    "start": "npx ts-node index.ts"
+  }
+}
